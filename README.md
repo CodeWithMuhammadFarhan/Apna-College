@@ -1,3 +1,5 @@
-#Github with apna College
+#Github with apna College.
+<br>
 This is my first Repository.
-Author-Shradha Khapra
+<br>
+Author-Muhammad Farhan
